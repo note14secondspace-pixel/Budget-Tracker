@@ -1,0 +1,5 @@
+{
+  "name": "Global Budget Tracker",
+  "description": "A comprehensive, multilingual budget tracking application with dark mode support, detailed analytics, and offline persistence.",
+  "requestFramePermissions": []
+}
